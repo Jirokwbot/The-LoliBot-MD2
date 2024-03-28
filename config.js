@@ -11,16 +11,16 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰  
 
 global.owner = [ 
-['595975740803', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-['573183650526', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-['593968585383'],
-['595992302861'],
-['5492266466080'], 
-['19393231057'],
-['5492266613038']]
+['6281547205987', 'Asisten skyhole', true],
+['62815472059874', 'JIRO SKYHOLE', true],
+['6289525720818'],
+['62815472059877'],
+['6281547205989'], 
+['62815472059874'],
+['62815472059874']]
 
-global.mods = ['50495745934'] 
-global.prems = ['972529277314'],  
+global.mods = ['62815472059874'] 
+global.prems = ['62815472059874'],  
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga The-LoliBot-MD
@@ -28,7 +28,7 @@ global.prems = ['972529277314'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = id  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -87,27 +87,27 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = 'Sticker di buat oleh'
+global.author = 'Asisten SKYHOLE By Jiro'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.lb = 'ASISTEN SKYHOLE'
+global.yt = 'https://www.youtube.com/@SKYHOLE'
+global.ig = 'https://www.tiktok.com/@SKYHOLE'
+global.md = 'https://github.com/jirokwbot'
+global.fb = '-'
 
-global.nna = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/KzJWBDGlE38A9Lbc6TJExI' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/F5oogSsyVb6KnmAZbHqJfo' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/EIm4nnvuYTl3KS2GySsgmx' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.nna = 'https://whatsapp.com/channel/0029VaKC1yeJENxzbP25ZK3u' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/FADo3lhqLBt6JAnuDblz7a' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/FADo3lhqLBt6JAnuDblz7a' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/BTktIZdjUTDI9QG1qykOkg' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/FADo3lhqLBt6JAnuDblz7a' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/FADo3lhqLBt6JAnuDblz7a' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/FADo3lhqLBt6JAnuDblz7a' //enlace lolibot
+global.nnntttt = 'https://whatsapp.com/channel/0029VaNRVgA72WTvVZHi3G1D' //Grupo ayuda sobre el bot
+global.asistencia = 'Wa.me/62815472059874' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -128,13 +128,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '5492266466080'
+global.wm = 'SKYHOLE BY ASISTEN SKYHOLE'
+global.igfg = 'ASISTEN SKYHOLE'
+global.wait = '*⌛ _Wait..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _Wait..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _Wait..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _Wait..._ ▬▬▬▬▬▬▭*'
+global.nomorown = '62815472059874'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
